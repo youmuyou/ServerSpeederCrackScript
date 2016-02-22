@@ -11,7 +11,7 @@ MODE: Install or Start with the system (0 or 1)
 example: sh serverspeedercrack.sh 56:00:00:1E:BB:25 eth0 1
 
 ##How to use?
-`git clone https://github.com/HuanMeng0/ServerSpeederCrackScript.git`
+`git clone https://github.com/zyqf/ServerSpeederCrackScript.git`
 
 `cd ServerSpeederCrackScript`
 
